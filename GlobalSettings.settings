@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AudioLoopBack" GeneratedClassName="GlobalSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Background_Color_Spect_C" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkOrange</Value>
+    </Setting>
+    <Setting Name="Background_Color_Wave_C" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Turquoise</Value>
+    </Setting>
+    <Setting Name="ShowCursor" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Cursor_L" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0.1</Value>
+    </Setting>
+    <Setting Name="Cursor_R" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0.9</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
